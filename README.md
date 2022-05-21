@@ -2,9 +2,9 @@
 
 <table>
     <tr>
-        <td><img src="https://via.placeholder.com/400/5CFF68/000000?text=+" width="100"> <br>#5CFF68</td>
-        <td><img src="https://via.placeholder.com/400/05CAFF/000000?text=+" width="100"> <br>#05CAFF</td>
-        <td><img src="https://via.placeholder.com/400/1B2731/000000?text=+" width="100"> <br>#1B2731</td>
+        <td><img src="http://placehold.jp/5CFF68/ffffff/80x80.png?text=%20"> <br>#5CFF68</td>
+        <td><img src="http://placehold.jp/05CAFF/ffffff/80x80.png?text=%20"> <br>#05CAFF</td>
+        <td><img src="http://placehold.jp/1B2731/ffffff/80x80.png?text=%20"> <br>#1B2731</td>
     </tr>
 </table>
 
